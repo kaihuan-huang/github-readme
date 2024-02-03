@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **kaihuan@realestateassistant.ai**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences: Currently pursuing a Master's in Computer Science at the University of York; certified Full Stack Web Developer through UC Berkeley Extension
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/kaihuanhuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kaihuanhuang" height="30" width="40" /></a>
