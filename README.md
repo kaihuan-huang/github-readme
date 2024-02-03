@@ -7,14 +7,13 @@
 
 - 👯 I’m looking to collaborate on [Real Estate Assistant AI](https://www.realestateassistant.ai/)
 
-- 👨‍💻 All of my projects are available at [https://kaihuan-huang.github.io/Personal-Portfolio-React/](https://kaihuan-huang.github.io/Personal-Portfolio-React/)
+- 👨‍💻 All of my projects are available at [Kaihuan Personal Portfolio](https://kaihuan-huang.github.io/Personal-Portfolio-React/)
 
-- 📝 I regularly write articles on [https://kaihuan-huang.github.io/Personal-Portfolio-React/](https://kaihuan-huang.github.io/Personal-Portfolio-React/)
+- 📝 I regularly write articles on [Kaihuan Blog](https://kaihuan-huang.github.io/Personal-Portfolio-React/)
 
 - 📫 How to reach me **kaihuan@realestateassistant.ai**
 
-- 📄 Know about my experiences [a computer scientist specializing in AI and full-stack web development. Educated in computer science and focusing on AI, I've developed expertise in machine learning, data structures, and computational principles. My career includes key roles at Real Estate Assistant AI, where I created AI systems for property management, and at NIO China, contributing to innovative electric vehicle solutions. I build scalable full-stack applications and am proficient in cloud services and AI application deployment. My strengths in deep learning, natural language processing, and crafting user-friendly interfaces position me well for various SDE roles. As Co-Founder of Real Estate Assistant AI, I've focused on creating a platform for real estate professionals, integrating human and AI agents. Our team recently welcomed a new advisor, the former Chairman of Realty Executives.](a computer scientist specializing in AI and full-stack web development. Educated in computer science and focusing on AI, I've developed expertise in machine learning, data structures, and computational principles. My career includes key roles at Real Estate Assistant AI, where I created AI systems for property management, and at NIO China, contributing to innovative electric vehicle solutions. I build scalable full-stack applications and am proficient in cloud services and AI application deployment. My strengths in deep learning, natural language processing, and crafting user-friendly interfaces position me well for various SDE roles. As Co-Founder of Real Estate Assistant AI, I've focused on creating a platform for real estate professionals, integrating human and AI agents. Our team recently welcomed a new advisor, the former Chairman of Realty Executives.)
-
+- 📄 Know about my experiences 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/kaihuanhuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kaihuanhuang" height="30" width="40" /></a>
