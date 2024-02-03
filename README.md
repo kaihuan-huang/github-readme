@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **kaihuan@realestateassistant.ai**
 
-- 📄 Know about my experiences: Currently pursuing a Master's in Computer Science at the University of York; certified Full Stack Web Developer through UC Berkeley Extension
+## 📄 Experience
+
+- Currently pursuing a Master's in Computer Science at the University of York
+- Certified Full Stack Web Developer through UC Berkeley Extension
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
